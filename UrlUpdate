@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "",
   "UrlUpdate": "https://baianossh.github.io/networkx/UrlUpdate",
   "Sms": "https://baianossh.github.io/networkx/UrlSms",
   "EmailFeedback": "networkx@gmail.com",
   "UrlContato": "",
-  "UrlTermos": "",
+  "UrlTermos": "https://baianossh.github.io/networkx/termos.html",
   "CheckUser": "true",
   "Udp": [
    {
